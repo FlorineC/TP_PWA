@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+  Florine CERCLE -- apprenti ingénieure IMTA
+
+# THANKS
+
+  Rossi ODDET
+
+# TECHNOLOGY COLOPHON
+
+  HTML5, CSS3
